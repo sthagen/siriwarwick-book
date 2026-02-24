@@ -10,6 +10,7 @@ p187: Last line of code annotation "_Relabel the ticks on the axes_": move this 
 p223: "_The row of A_": change to "The rows of A". (Kit Liu) <br>
 p238: "_join the image points again to find the transformed square_": change to "joins the image points again to produce the transformed square".<br>
 p261: (top line) "_row-rank_": change to "low-rank".<br>
+p266: "just read of": change to "just read off".<br>
 p304: "_left ledge_" (above table 6.2) : change to "left edge".<br>
 p351: Ex 14c(i) "Plot the $\Gamma(x)$": remove "the". Ex 14c(ii) ".. in using the Stirling's": remove "the".<br>
 p355: "_the probabilistic number theory_": remove "the".<br>
